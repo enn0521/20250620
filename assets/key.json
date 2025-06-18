@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "img-story-api",
+  "private_key_id": "626e331be4c7c5c81777b3b18fd1df6f0950c554",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDtUDvdYHyBjrbI\n6p2AV1w5CawiVGuY92QNQ9ro7od1/kyyIndmLFHG6D18Fx8T5FB6bExTqF+S0uuC\nCPe0FnY97asWdVpjDMLE68fPgDrwWfdcEC1BjRJ3O3gm2YoQ+9uriGsYRBUk+V5p\nKSKjjHXwuFpbmxDP9ND/M1zjnkF6RlxabMzjXn/XPiXMvqi3GoCQoRRErzcYYt+S\n3cBXkJrvu1ffOHGQk6yOGuo+pjtFKcuQvh41gfpm1gQqYrrElVdCYdL8JvKGhAca\nH7lFw8Grgwx6PcbO0IVWrtbp6Oai/Z6r4nEFsyO65yKWWCaFmoh4HmPOY5m3rXvk\nUG12Og6VAgMBAAECggEAMDbj4sdOpHfdVRatpzyYhRIdAeCK98oTbsqBeF+179gZ\ntvtfrMeGWdYnX8XGz6DMZQMJwtlriYYGySWPRexmW5Ck+Owg0AzwqVeKAfN4hgqR\nQggbWb0SqlzPvXznGypAaCpQL97tONTdRJpR6k6IS774xLHNiaKgr6i8z5YAkZnD\n02AwWRA0EIuigzmWl2TDMsK5Z5QhghFdsQoRlKEMAE+0ILJFNSKg70ccdlhyOAyp\nuR8KJPpDhsPEgJmy53Z5SHcsepXvIzHTTyOcZIIytGGSfGwJmVb4+yEMI+PXGzWt\nzlSLQo4WIcfXu1ibXpV3XtowgbaJT8iqpxvLrv8gZQKBgQD4PBHoR2pJSFjjxJ+R\n4rQHE/z87AMmYUwLOBt64t6e0MVc317uH+AIwqFq2DCItvA71pF311t/n+J+GDvQ\n2/1CNHZvbJViU6Iq/KSyximzQh5DZJdalHRi7aEz/xewMKzmV8pX53bRFMVXZ1xy\nHuvm5blhKl+AVip4R3GxXILttwKBgQD0vLQlvlbmY4bHMlwn5zJqzprSJQUGO6N+\np43KWtLZlVf9B5wHdduIiJW/DNjbSW9Xlxc5/O8Aa2iWniexOdZ1KyKICbm2oUMP\nGran0z6hZ+huc4XQd6SN4low3gNHRMqOwsE4w06h5yMXWuPPy4wVBT4Wz6PU95MU\nOo6BwJDmEwKBgQCNUbVoJXAO9E8WrFOjvAp9lRWL79kDOpUONgz+8rWGeJhDfS8Q\nJblng1Zd+2H2Ex/FESyTq1j92UoaOzWie/s8e52JZanN5osGKfqhhEstMFEGUPgR\nqz5vK5WAgpM7zRpBsG0TikSMV2TZk5B/r7bhJptZA8SGzYc0HohNTruDFQKBgCYk\netcfESAbBthoyuAVMlBfHtX9mwjbpqGIr5qICTCMDAiNdQ3cmnhvARejgvC6QzYd\ngCszdnRUSRqgT4NZhkkAjgMxsNX70B28hhcl3y78qMb+Di7tVqIeUvwmvdAPspoJ\nVF/qYIjvIxLywWqTSKPGC2U2u0vnwe53KdqjDnItAoGBALKqKoPLBhoVvxM3ZtET\nqnNK7H5NrSHeEYov7EzV0uT6HS4XbiDFX0AVV88Yc3/iUjeG7hyCYnKWzd99X5T5\nfUsn/Z4yeUGXK0ncVu6hmVsknU/S+6QpUa5Q5/azeke8F34nLMbbYvosGQRU3OOy\nyABPIWEG7Wy+fMcpunNRpxmy\n-----END PRIVATE KEY-----\n",
+  "client_email": "serviceaccount@img-story-api.iam.gserviceaccount.com",
+  "client_id": "111393386375949648921",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serviceaccount%40img-story-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "啟動 Node.js",
+      "type": "shell",
+      "command": "node",
+      "args": ["node.js"],
+      "presentation": {
+        "reveal": "always"
+      }
+    }
+  ],
+  "task.allowAutomaticTasks": "on"
+}
