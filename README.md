@@ -1,12 +1,12 @@
-# Root:
+# Root
 localhost/main/assets 
 
-# Install needed:
+# Install needed
 XAMPP <br>
 npm install <br>
 shop_system.sql <br>
 
-# Bash:
+# Bash
 cd assets <br>
 node node.js <br>
 
