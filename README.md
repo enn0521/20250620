@@ -4,6 +4,7 @@
 ## Install needed
 
      XAMPP
+     Node.js
      shop_system.sql
 
 > [!NOTE]
@@ -16,7 +17,7 @@ Install npm
 
     npm install 
     
-active node server
+Active node server
 
     cd assets <br>
     node node.js <br>
