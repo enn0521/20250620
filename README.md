@@ -1,12 +1,12 @@
-# Root
+## Root
 localhost/main/assets 
 
-# Install needed
+## Install needed
 XAMPP <br>
 shop_system.sql <br>
 -需將 sql 檔案匯入到 xampp MySQL上 
 
-# Bash 
+## Bash 
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser <br>
 npm install <br> 
 -安裝 npm 所需檔案
