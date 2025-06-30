@@ -1,7 +1,7 @@
-## Root
+### Root
     localhost/main/assets 
 
-## Install needed
+### Install needed
 
      XAMPP
      Node.js
@@ -11,7 +11,7 @@
 > You might need to import SQL file into XAMPP MySQL.
 
 
-## Cmd
+### Cmd
 
 Install Package 
 
