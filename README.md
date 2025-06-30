@@ -13,7 +13,7 @@
 
 ## Cmd
 
-Install npm 
+Install Package 
 
     npm install 
     
