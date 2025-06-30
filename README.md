@@ -19,6 +19,6 @@ Install Package
     
 Active node server
 
-    cd assets <br>
-    node node.js <br>
+    cd assets
+    node node.js 
 
