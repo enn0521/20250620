@@ -1,10 +1,10 @@
 ## Root
-localhost/main/assets 
+    localhost/main/assets 
 
 ## Install needed
 
-- [ ] XAMPP
-- [ ] shop_system.sql
+     XAMPP
+     shop_system.sql
 
 需將 sql 檔案匯入到 xampp MySQL上 
 
