@@ -7,7 +7,7 @@
      Node.js
      shop_system.sql
      
-> [!TIPS]
+> [!TIP]
 > Start Apache and MySQL via the XAMPP Control Panel before running the project.
 
 > [!NOTE]
