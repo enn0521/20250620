@@ -6,9 +6,12 @@
      XAMPP
      Node.js
      shop_system.sql
+     
+> [!TIPS]
+> Start Apache and MySQL via the XAMPP Control Panel before running the project.
 
 > [!NOTE]
-> You might need to import SQL file into XAMPP MySQL.
+> You must import shop_system.sql into your MySQL database using phpMyAdmin.
 
 
 ### Cmd
